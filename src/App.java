@@ -1,4 +1,4 @@
-public class NumeroFlotanteHenryChavez {
+public class App {
     public static void main(String[] args) throws Exception {
         float numberFloat = 3.14f;
         int integerPart = (int) numberFloat;
